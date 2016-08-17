@@ -1,4 +1,3 @@
-layout_spectrum: 0.2651672495994717
 typography_spectrum: 0.179874487221241
 color:
   brandStrength: 0.13997973501682281
@@ -6,9 +5,11 @@ color:
   saturation: 0.1441813805140555
   rhythmicContrast: 0.7601254223845899
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#FDFEFF'
+    - '#1E1E20'
+    - '#3E4651'
+    - '#6C798A'
+    - '#D5DCEC'
+layout_spectrum: 0.2651672495994717
 name: Cogitum Angola
+description: Desenhamos o futuro...
